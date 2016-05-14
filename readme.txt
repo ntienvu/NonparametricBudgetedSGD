@@ -4,7 +4,7 @@ run demo_NBSGD_binary_classification for binary classification
 run demo_NBSGD_multi_classification for multiclassification
 run demo_NBSGD_binary_classification for regresion
 
-% Explaination of some parameter setting
+% Explanation of some parameters
 
 There are three main parameters.
 lambda: for regularization, the default value is  100/N where N is the number of training data points.
