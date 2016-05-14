@@ -7,9 +7,9 @@ run demo_NBSGD_binary_classification for regresion
 % Explanation of some parameters
 
 There are three main parameters.
-lambda: for regularization, the default value is  100/N where N is the number of training data points.
-sigma: for RBF kernel, defaul 0.1
-beta: control the budget maintenance rate, default value is 0.5
+lambda: for regularization. The default value is 100/N where N is the number of training data points.
+sigma: for RBF kernel. The defaul value is 0.1
+beta: control the budget maintenance rate, ranging from 0 to 1. The default value is 0.5
 
 
 
