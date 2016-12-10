@@ -11,7 +11,7 @@ addpath('release_NBSGD');
 fprintf('MultiClass ');
 
 
-[yyTrain, xxTrain]=libsvmread('F:\Data\multiclassification\dna.scale.tr');[yyTest, xxTest]=libsvmread('F:\Data\multiclassification\dna.scale.t');
+[yyTrain, xxTrain]=libsvmread('data\dna.scale.tr');[yyTest, xxTest]=libsvmread('data\dna.scale.t');
     %[yyTrain, xxTrain]=libsvmread('F:\Data\multiclassification\letter.scale.tr');[yyTest, xxTest]=libsvmread('F:\Data\multiclassification\letter.scale.t');
 
 
