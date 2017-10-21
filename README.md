@@ -18,7 +18,7 @@ beta: control the budget maintenance rate, ranging from 0 to 1. The default valu
 ### Contact: Dr Vu Nguyen, v.nguyen@deakin.edu.au
 
 ### Citation: 
-  Le, T., Nguyen, V., Nguyen, T. D., & Phung, D. (2016). Nonparametric Budgeted Stochastic Gradient Descent. In Proceedings of the 19th International Conference on Artificial Intelligence and Statistics (pp. 654-572).
+    Le, T., Nguyen, V., Nguyen, T. D., & Phung, D. (2016). Nonparametric Budgeted Stochastic Gradient Descent. In Proceedings of the 19th International Conference on Artificial Intelligence and Statistics (pp. 654-572).
 
 
 
