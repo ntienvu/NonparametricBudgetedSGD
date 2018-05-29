@@ -3,9 +3,9 @@ This is the released source code for Nonparametric Stochastic Gradient Descent.
 
 
 ### Run the code
-run demo_NBSGD_binary_classification for binary classification
-run demo_NBSGD_multi_classification for multiclassification
-run demo_NBSGD_binary_classification for regresion
+    run demo_NBSGD_binary_classification for binary classification
+    run demo_NBSGD_multi_classification for multiclassification
+    run demo_NBSGD_binary_classification for regresion
 
 ### Explanation of some parameters
 
